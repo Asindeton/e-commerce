@@ -1,0 +1,3 @@
+[submodule "ec-frontend"]
+	path = ec-frontend
+	url = https://github.com/Asindeton/ec-frontend.git
